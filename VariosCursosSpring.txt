@@ -1,0 +1,131 @@
+
+ONO Training a Todos
+
+por favor me piden rellenar la encuesta ésta https://forms.gle/2haFLyUPZBiB2qcG9
+
+
+
+
+9:08
+
+ICONO Training a Todos
+
+Os dejo abiertos los repositoior que tiene cliente y servidor con angular sy spring boot microservicios
+
+
+
+
+9:08
+
+ICONO Training a Todos
+
+cliente
+
+
+
+
+9:08
+
+ICONO Training a Todos
+
+https://github.com/Valexx55/indraNEC
+
+
+
+
+9:08
+
+ICONO Training a Todos
+
+https://github.com/Valexx55/indraNE
+
+
+
+
+9:15
+
+Maya Puchet, Iker a Todos
+
+Tienes tambien GitExtensions
+
+
+
+
+9:16
+
+Daniel Sánchez Checa a Todos
+
+Para Linux tambien GitAhead
+
+
+
+
+9:16
+
+Daniel Sánchez Checa a Todos
+
+Similar a GitKraken
+
+
+
+
+9:25
+
+ICONO Training a Todos
+
+<configuration>
+<mainClass>edu.val.minsait.mseureka.MseurekaApplication</mainClass>
+</configuration>
+
+<executions>
+<execution>
+ <goals>
+  <goal>repackage</goal>
+ </goals>
+</execution>
+</executions>
+
+
+
+
+9:28
+
+ICONO Training a Todos
+
+clean install spring-boot:repackage
+
+
+
+
+9:33
+
+ICONO Training a Todos
+
+desde el directorio target
+
+
+
+
+9:33
+
+ICONO Training a Todos
+
+java -jar mseureka-0.0.1-SNAPSHOT.jar
+
+
+
+
+9:34
+
+ICONO Training a Todos
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/deployment.html
+
+
+
+
+9:38
+
+Osuna Galisteo, Miguel Angel a Todos
+
+Si por ejemplo, en la máquina del cliente tenéis varias versiones de java en vez de java -jar podéis poner la ruta del java que os interese "/Prodotti/bea/jdk1.7.0_45/bin/"java -jar -Xmx6144M -d64 ...
