@@ -86,7 +86,7 @@
 <!-- 		<dependency> -->
 <!-- 			<groupId>org.springframework.boot</groupId> -->
 <!-- 			<artifactId>spring-boot-starter-actuator</artifactId> --><!-- Actuator esta dando incompatibilidad con swagger -->
-<!-- 		</dependency> -->
+<!-- 		</dependency> HOLA-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
